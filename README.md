@@ -11,7 +11,7 @@ This will install required system packages on Debian-based Linux distros.
 
 ## Setting up clean development environment
 
-    make cleanDevEnv
+    sudo make cleanDevEnv
     source build/env/bin/activate
 
 This will create and activate a python virtual environment in `build/env`.
